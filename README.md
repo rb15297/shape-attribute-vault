@@ -1,5 +1,3 @@
-# Shape Attribute Vault — Student Site
+# Shape Attribute Vault — student site
 
-Self-paced 3rd Grade Geometry escape room (student-facing HTML only).
-
-Teacher materials (PDF answer key, recording sheet) are **not** included in this repo.
+Public student escape-room site only. Teacher PDFs and answer keys are not included.
